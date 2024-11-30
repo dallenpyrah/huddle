@@ -23,7 +23,7 @@
     "daisyui": "^2.38.1",
     "dotenv": "^16.0.3",
     "env-cmd": "^10.1.0",
-    "firebase": "^9.9.4",
+    "firebase": "^9.15.0",
     "headlessui": "^0.0.0",
     "heroicons": "^2.0.13",
     "inversify": "^6.0.1",
