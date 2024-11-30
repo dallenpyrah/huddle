@@ -19,7 +19,7 @@
     "@heroicons/react": "^2.0.13",
     "@hookstate/core": "^4.0.0-rc21",
     "@tanstack/react-query": "^4.13.5",
-    "axios": "^0.27.2",
+    "axios": "^1.2.1",
     "daisyui": "^2.38.1",
     "dotenv": "^16.0.3",
     "env-cmd": "^10.1.0",
